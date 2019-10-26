@@ -1,4 +1,4 @@
-Package: Bonus-Lab
+Package: BonusLab
 Type: Package
 Title: The package uses ridge regression to calculate coefficients and predicted values of a dataset 
 Version: 1.0
@@ -9,3 +9,4 @@ Description: More about what it does (maybe more than one line)
 License: What license is it under?
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
+RoxygenNote: 6.1.1

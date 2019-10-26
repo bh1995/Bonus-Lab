@@ -73,7 +73,7 @@ ridgereg <- setRefClass("ridgreg",
                           
                           # Coefficients
                           
-                          coef <- function(){
+                          coef = function(){
                             return(beta_ridge)
                           }
                           
